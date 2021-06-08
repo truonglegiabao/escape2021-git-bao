@@ -1,5 +1,7 @@
 # ESCAPE School live demo 
 
+Never do live demo, always ends up in a catastrophe
+
 Usage:
 ```python
 
